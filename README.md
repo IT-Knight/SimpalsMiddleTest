@@ -28,15 +28,16 @@ Step 5. Sync data from MongoDB with Elasticsearch.
 For development, it is preferable to use the following technology stack:
 
 ● Python 3
+
 ● Requests
 
 ● ASYNC HTTP frameworks one of:
 
-  ○ Tornado
+    ○ Tornado
   
-  ○ Sanic
+    ○ Sanic
   
-  ○ Aiohttp
+    ○ Aiohttp
   
 ● Persistent DB: ​MongoDB
 
@@ -89,11 +90,11 @@ To complete the task, you will need:
 
 ● Async HTTP frameworks один из:
 
-  ○ Tornado
+   ○ Tornado
   
-  ○ Sanic
+   ○ Sanic
   
-  ○ Aiohttp
+   ○ Aiohttp
   
 ● Persistent DB: ​MongoDB
 
