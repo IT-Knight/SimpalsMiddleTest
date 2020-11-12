@@ -26,23 +26,36 @@ Step 5. Sync data from MongoDB with Elasticsearch.
 **Requirements**
 
 For development, it is preferable to use the following technology stack:
+
 ● Python 3
 ● Requests
+
 ● ASYNC HTTP frameworks one of:
+
   ○ Tornado
+  
   ○ Sanic
+  
   ○ Aiohttp
+  
 ● Persistent DB: ​MongoDB
+
 ● Search engine: ​Elasticsearch
 
 **Resources**
+
 To complete the task, you will need:
+
 ● account Johny194; password xxxxxx
+
 ● API_token to your account
+
 ● The [API documentation](https://999.md/api/documentation)
+
 ● BNM (National Bank of Moldova) exchange rate
 
 ---
+
 **RU**
 
 Привет! Это тестовое задание состоит из 5 шагов. Каждый следующий сложнее
@@ -69,18 +82,32 @@ To complete the task, you will need:
 **Требования**
 
 Для разработки предпочтительно использовать следующий стек технологий:
+
 ● Python 3
+
 ● Requests
+
 ● Async HTTP frameworks один из:
+
   ○ Tornado
+  
   ○ Sanic
+  
   ○ Aiohttp
+  
 ● Persistent DB: ​MongoDB
+
 ● Search engine: ​Elasticsearch
 
 **Ресурсы**
+
 Для реализации задания понадобятся:
+
   ● Аккаунт ​Johny194​; пароль ​xxxxxx
+  
   ● API_token к аккаунту
+  
   ● [Документация API](https://999.md/api/documentation)
+  
   ● Курс​ ​BNM(национального банка Молдовы)
+  
