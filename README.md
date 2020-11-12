@@ -9,16 +9,22 @@ the task. Please provide the completed task in a format that is convenient for y
 a description of the dependencies and the launch method. Good Luck:)
 
 **Task**
+
 Step 1. Create a web server that will accept requests from the "imaginary frontend", send data in json format
 in the response to the request to your API.
+
 Step 2. Download all ads from your Johny194 account, save your MongoDB data.
+
 Step 3. All prices on ads that are listed in EUR before saving
 are converted to MDL at today's exchange rate.
+
 Step 4. Set up tracking of changes in ads for the Johny194 account and
 make them in MongoDB.
+
 Step 5. Sync data from MongoDB with Elasticsearch.
 
 **Requirements**
+
 For development, it is preferable to use the following technology stack:
 ● Python 3
 ● Requests
@@ -46,16 +52,22 @@ To complete the task, you will need:
 описанием зависимостей и способа запуска. Удачи :)
 
 **Задание**
+
 Шаг 1. Написать веб-сервер, который будет принимать запросы с "мнимого фронтенда", данные в формате json отдать
 в ответе на запрос к вашему API
+
 Шаг 2. Скачать все объявления аккаунта ​Johny194​, данные сохранить MongoDB.
+
 Шаг 3. Все цены на объявлениях, перед сохранением, которые указаны в EUR
 перевести в MDL по сегодняшнему курсу.
+
 Шаг 4. Настроить отслеживание изменений в объявлениях для аккаунта ​Johny194​ и
 вносить их в MongoDB.
+
 Шаг 5. Синхронизировать данные из MongoDB с Elasticsearch.
 
 **Требования**
+
 Для разработки предпочтительно использовать следующий стек технологий:
 ● Python 3
 ● Requests
